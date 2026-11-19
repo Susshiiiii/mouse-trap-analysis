@@ -1,0 +1,14 @@
+# Customer data and reports stay local — never commit them
+*.xlsx
+*.xlsm
+*.xls
+*.pptx
+*.docx
+~$*
+
+# Local environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
